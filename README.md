@@ -193,7 +193,7 @@ A full Word document report (`Banking_Analytics_Report.docx`) is included, cover
 ## 👤 Author
 
 **VICKY KUMAR YADAV**
-📧 your.email@example.com
+📧 vickykryadav5446@gmail.com
 🔗 [LinkedIn]()https://www.linkedin.com/in/vicky-kumar-yadav-55135a259/
 🐙 [GitHub]https://github.com/vicky-22-developer/Banking-Customer-Analysis/edit/main/README.md
 
